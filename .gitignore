@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+
+# Environments
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Weights (pesados)
+*.pt
+
+# Data
+data/raw/*
+!data/raw/.gitkeep
