@@ -13,3 +13,7 @@ venv/
 # Data
 **/data/raw/*
 !**/data/raw/.gitkeep
+
+# Dataset processado (gerado por src/prepare_dataset.py a partir de data/raw)
+**/data/processed/*
+!**/data/processed/.gitkeep
