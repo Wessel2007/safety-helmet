@@ -11,5 +11,5 @@ venv/
 *.pt
 
 # Data
-data/raw/*
-!data/raw/.gitkeep
+**/data/raw/*
+!**/data/raw/.gitkeep
