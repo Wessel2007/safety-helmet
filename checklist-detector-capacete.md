@@ -46,16 +46,16 @@
 - [x] Baixar e extrair em `data/raw/`
 - [x] Verificar que o dataset já vem no formato YOLO (imagens + `.txt` com bounding boxes) ou anotar a estrutura de classes que ele usa (ex: `helmet`, `no-helmet`, `person`)
 - [x] Documentar a fonte do dataset (link, licença) em `docs/dataset.md` — importante para dar crédito e mostrar profissionalismo
-- [ ] Commit: **"docs: adiciona dataset e documentação da fonte"**
+- [x] Commit: **"docs: adiciona dataset e documentação da fonte"**
 
 
 
 ### 4. Organização e validação do dataset
 
-- [ ] Criar arquivo `data.yaml` apontando para as pastas de treino/validação e listando as classes
-- [ ] Escrever um script simples (`src/check_dataset.py`) que abre algumas imagens com as bounding boxes desenhadas, só para conferir visualmente que as anotações estão corretas
-- [ ] Rodar esse script e confirmar visualmente (salvar 2-3 imagens de exemplo em `outputs/dataset_preview/`)
-- [ ] Commit: **"feat: script de validação visual do dataset"**
+- [x] Criar arquivo `data.yaml` apontando para as pastas de treino/validação e listando as classes
+- [x] Escrever um script simples (`src/check_dataset.py`) que abre algumas imagens com as bounding boxes desenhadas, só para conferir visualmente que as anotações estão corretas
+- [x] Rodar esse script e confirmar visualmente (salvar 2-3 imagens de exemplo em `outputs/dataset_preview/`)
+- [x] Commit: **"feat: script de validação visual do dataset"**
 
 ---
 
