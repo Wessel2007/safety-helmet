@@ -67,9 +67,9 @@
 
 ### 5. Baseline com modelo pré-treinado
 
-- [ ] Rodar o YOLOv8n (nano, mais leve) pré-treinado em uma imagem de teste só para confirmar que a inferência funciona no PC (sem GPU)
-- [ ] Medir tempo de inferência por imagem (vai te dar noção do que esperar depois)
-- [ ] Commit: **"test: valida inferência baseline do YOLOv8n pré-treinado"**
+- [x] Rodar o YOLOv8n (nano, mais leve) pré-treinado em uma imagem de teste só para confirmar que a inferência funciona no PC (sem GPU)
+- [x] Medir tempo de inferência por imagem (vai te dar noção do que esperar depois)
+- [x] Commit: **"test: valida inferência baseline do YOLOv8n pré-treinado"**
 
 
 
